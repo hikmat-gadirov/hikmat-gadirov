@@ -2,19 +2,19 @@
 
 <!-- Apple-Style Dynamic Header -->
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0f172a%26height%3D220%26section%3Dheader%26text%3DHikmat%2520Gadirov%26fontSize%3D70%26fontColor%3D3DDC84%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DArchitecting%2520Scalable%2520Android%2520Ecosystems%26descAlignY%3D55%26descAlign%3D50" alt="Hikmat Gadirov Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0f172a%26height%3D220%26section%3Dheader%26text%3DHikmat%2520Gadirov%26fontSize%3D70%26fontColor%3D3DDC84%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DArchitecting%2520Scalable%2520Android%2520Ecosystems%26descAlignY%3D55%26descAlign%3D50" alt="Hikmat Gadirov Header" width="100%" />
 
 <!-- Social Proof Badges -->
 
 <p>
-<a href="https://www.google.com/search?q=https://hikmat-gadirov.github.io">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PORTFOLIO-Visit_Site-3DDC84%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dblack" alt="Portfolio" />
+<a href="https://hikmat-gadirov.github.io">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-3DDC84%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dblack" alt="Portfolio" />
 </a>
 <a href="https://linkedin.com/in/hikmat-gadirov">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-Connect-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
 <a href="mailto:hikmet.kadirov.96@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/EMAIL-Hire_Me-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+<img src="https://img.shields.io/badge/EMAIL-Hire_Me-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
 </a>
 </p>
 
@@ -37,7 +37,7 @@ Building <b>Crash-Free</b> and <b>High-Performance</b> infrastructure for Fintec
 <tr border="none">
 <td width="33%" align="center">
 <a href="https://play.google.com/store/apps/details?id=com.lcwaikiki.android&hl=en">
-<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LC_Waikiki_logo.svg/2560px-LC_Waikiki_logo.svg.png" width="60" alt="LCW" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LC_Waikiki_logo.svg/2560px-LC_Waikiki_logo.svg.png" width="60" alt="LCW" />
 
 
 
@@ -52,7 +52,7 @@ Building <b>Crash-Free</b> and <b>High-Performance</b> infrastructure for Fintec
 </td>
 <td width="33%" align="center">
 <a href="https://play.google.com/store/apps/details?id=tr.com.turkcell.akillidepo&hl=en">
-<img src="https://www.google.com/search?q=https://play-lh.googleusercontent.com/1G8G3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q%3Dw240-h480-rw" width="50" style="border-radius: 12px;" alt="Lifebox" />
+<img src="https://play-lh.googleusercontent.com/1G8G3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q%3Dw240-h480-rw" width="50" style="border-radius: 12px;" alt="Lifebox" />
 
 
 
@@ -67,7 +67,7 @@ Building <b>Crash-Free</b> and <b>High-Performance</b> infrastructure for Fintec
 </td>
 <td width="33%" align="center">
 <a href="https://play.google.com/store/apps/details?id=com.tuttur.tuttur_mobile_android&hl=en">
-<img src="https://www.google.com/search?q=https://play-lh.googleusercontent.com/JjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJj%3Dw240-h480-rw" width="50" style="border-radius: 12px;" alt="Tuttur" />
+<img src="https://play-lh.googleusercontent.com/JjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJj%3Dw240-h480-rw" width="50" style="border-radius: 12px;" alt="Tuttur" />
 
 
 
@@ -89,29 +89,29 @@ Building <b>Crash-Free</b> and <b>High-Performance</b> infrastructure for Fintec
 
 <h3>🛠 Engineering Arsenal</h3>
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kotlin-0095D5%3Fstyle%3Dflat-square%26logo%3Dkotlin%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dflat-square%26logo%3Djava%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Android_Jetpack-3DDC84%3Fstyle%3Dflat-square%26logo%3Dandroid%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Compose-4285F4%3Fstyle%3Dflat-square%26logo%3Djetpackcompose%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dflat-square%26logo%3Dfirebase%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CI%252FCD-Jenkins-D24939%3Fstyle%3Dflat-square%26logo%3Djenkins%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5%3Fstyle%3Dflat-square%26logo%3Dkotlin%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dflat-square%26logo%3Djava%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Android_Jetpack-3DDC84%3Fstyle%3Dflat-square%26logo%3Dandroid%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Compose-4285F4%3Fstyle%3Dflat-square%26logo%3Djetpackcompose%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dflat-square%26logo%3Dfirebase%26logoColor%3Dblack" />
+<img src="https://img.shields.io/badge/CI%252FCD-Jenkins-D24939%3Fstyle%3Dflat-square%26logo%3Djenkins%26logoColor%3Dwhite" />
 </p>
 
 <br />
 
 <!-- GitHub Analytics (Dark Theme to match Portfolio) -->
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dhikmat-gadirov%26show_icons%3Dtrue%26theme%3Dtransparent%26title_color%3D3DDC84%26text_color%3D9f9f9f%26icon_color%3D3DDC84%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Hikmat's Stats" />
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dhikmat-gadirov%26show_icons%3Dtrue%26theme%3Dtransparent%26title_color%3D3DDC84%26text_color%3D9f9f9f%26icon_color%3D3DDC84%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Hikmat's Stats" />
 
 <br />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dhikmat-gadirov%26theme%3Dtransparent%26date_format%3DM%2520j%255B%252C%2520Y%255D%26ring%3D3DDC84%26fire%3D3DDC84%26currStreakLabel%3D3DDC84%26hide_border%3Dtrue" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dhikmat-gadirov%26theme%3Dtransparent%26date_format%3DM%2520j%255B%252C%2520Y%255D%26ring%3D3DDC84%26fire%3D3DDC84%26currStreakLabel%3D3DDC84%26hide_border%3Dtrue" alt="GitHub Streak" />
 
 <br /><br />
 
 <!-- Final CTA -->
 
-<a href="https://www.google.com/search?q=https://hikmat-gadirov.github.io">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D3DDC84%26height%3D50%26section%3Dfooter%26text%3DView%2520Full%2520Portfolio%26fontSize%3D20%26fontColor%3D0f172a%26animation%3DfadeIn" alt="Footer" width="100%" />
+<a href="https://hikmat-gadirov.github.io">
+<img src="https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D3DDC84%26height%3D50%26section%3Dfooter%26text%3DView%2520Full%2520Portfolio%26fontSize%3D20%26fontColor%3D0f172a%26animation%3DfadeIn" alt="Footer" width="100%" />
 </a>
 
 </div>
