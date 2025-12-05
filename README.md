@@ -1,117 +1,88 @@
 <div align="center">
 
-<!-- Apple-Style Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Hikmat%20Gadirov&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Senior%20Android%20Engineer%20%7C%20Architect&descAlignY=70&descSize=20&descColor=3DDC84&animation=fadeIn" alt="Hikmat Gadirov" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0f172a%26height%3D220%26section%3Dheader%26text%3DHikmat%2520Gadirov%26fontSize%3D70%26fontColor%3D3DDC84%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DArchitecting%2520Scalable%2520Android%2520Ecosystems%26descAlignY%3D55%26descAlign%3D50" alt="Hikmat Gadirov Header" width="100%" />
+<br/>
 
-<!-- Social Proof Badges -->
-
-<p>
 <a href="https://hikmat-gadirov.github.io">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-3DDC84%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dblack" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_FULL_PORTFOLIO-Click_Here-000000?style=for-the-badge&logo=googlechrome&logoColor=3DDC84&labelColor=1f2428&color=3DDC84&border=3DDC84" height="55" alt="Launch Portfolio" />
 </a>
-<a href="https://linkedin.com/in/hikmat-gadirov">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="mailto:hikmet.kadirov.96@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Hire_Me-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
+
+<br/><br/>
+
+<p style="color: #8b949e; font-family: sans-serif; font-size: 14px; letter-spacing: 2px;">
+    ENGINEERED FOR SCALE
 </p>
 
-<br />
-
-<!-- The Hook: Who You Are -->
-
-<h3>
-I don't just write code, <span style="color: #3DDC84;">I scale businesses.</span>
-</h3>
-<p width="600px">
-Building <b>Crash-Free</b> and <b>High-Performance</b> infrastructure for Fintech, E-commerce, and Telecom giants serving millions of users.
-</p>
-
-<br />
-
-<!-- Premium App Showcase (Table for Structure) -->
-
-<table>
-<tr border="none">
-<td width="33%" align="center">
-<a href="https://play.google.com/store/apps/details?id=com.lcwaikiki.android&hl=en">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LC_Waikiki_logo.svg/2560px-LC_Waikiki_logo.svg.png" width="60" alt="LCW" />
-
-
-
-
-<b>LC Waikiki</b>
-
-
-
-
-<small>50M+ Users • MVI</small>
-</a>
-</td>
-<td width="33%" align="center">
-<a href="https://play.google.com/store/apps/details?id=tr.com.turkcell.akillidepo&hl=en">
-<img src="https://play-lh.googleusercontent.com/1G8G3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q3q7Q%3Dw240-h480-rw" width="50" style="border-radius: 12px;" alt="Lifebox" />
-
-
-
-
-<b>Lifebox</b>
-
-
-
-
-<small>10M+ Users • Cloud</small>
-</a>
-</td>
-<td width="33%" align="center">
-<a href="https://play.google.com/store/apps/details?id=com.tuttur.tuttur_mobile_android&hl=en">
-<img src="https://play-lh.googleusercontent.com/JjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJjJj%3Dw240-h480-rw" width="50" style="border-radius: 12px;" alt="Tuttur" />
-
-
-
-
-<b>Tuttur</b>
-
-
-
-
-<small>Real-time • Socket</small>
-</a>
-</td>
-</tr>
+<table border="0" width="100%" style="border-collapse: collapse;">
+    <tr>
+        <td width="33%" align="center" style="border: none; padding-bottom: 30px;">
+            <a href="https://play.google.com/store/apps/details?id=com.lcwaikiki.android&hl=en">
+                <img src="./assets/lcw.jpg" width="65" style="border-radius: 14px; box-shadow: 0 5px 20px rgba(0,0,0,0.5);" alt="LC Waikiki"/>
+                <br/><br/>
+                <b style="font-size: 14px; color: #ffffff;">LC Waikiki</b>
+                <br/>
+                <small style="color: #3DDC84;">10M+ Downloads</small>
+            </a>
+        </td>
+        <td width="33%" align="center" style="border: none; padding-bottom: 30px;">
+            <a href="https://play.google.com/store/apps/details?id=tr.com.turkcell.akillidepo&hl=en">
+                <img src="./assets/lifebox.jpg" width="65" style="border-radius: 14px; box-shadow: 0 5px 20px rgba(0,0,0,0.5);" alt="Lifebox"/>
+                <br/><br/>
+                <b style="font-size: 14px; color: #ffffff;">Lifebox</b>
+                <br/>
+                <small style="color: #3DDC84;">10M+ Downloads</small>
+            </a>
+        </td>
+        <td width="33%" align="center" style="border: none; padding-bottom: 30px;">
+            <a href="https://play.google.com/store/apps/details?id=com.solidict.catalog4p">
+                <img src="./assets/giftbank.png" width="65" style="border-radius: 14px; box-shadow: 0 5px 20px rgba(0,0,0,0.5);" alt="Gift Bank"/>
+                <br/><br/>
+                <b style="font-size: 14px; color: #ffffff;">Gift Bank</b>
+                <br/>
+                <small style="color: #3DDC84;">1M+ Downloads</small>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="33%" align="center" style="border: none;">
+            <a href="https://play.google.com/store/apps/details?id=com.tuttur.tuttur_mobile_android&hl=en"> 
+                <img src="./assets/tuttur.png" width="65" style="border-radius: 14px; box-shadow: 0 5px 20px rgba(0,0,0,0.5);" alt="Tuttur"/>
+                <br/><br/>
+                <b style="font-size: 14px; color: #ffffff;">Tuttur</b>
+                <br/>
+                <small style="color: #8b949e;">100K+ Downloads</small>
+            </a>
+        </td>
+        <td width="33%" align="center" style="border: none;">
+            <a href="https://play.google.com/store/apps/details?id=momsco.molfix.anne.bebek&gl=US">
+                <img src="./assets/momsco.webp" width="65" style="border-radius: 14px; box-shadow: 0 5px 20px rgba(0,0,0,0.5);" alt="Momsco"/>
+                <br/><br/>
+                <b style="font-size: 14px; color: #ffffff;">Momsco</b>
+                <br/>
+                <small style="color: #8b949e;">100K+ Downloads</small>
+            </a>
+        </td>
+        <td width="33%" align="center" style="border: none;">
+            <a href="https://apkpure.com/bubu-lite/com.yuptechnology.bubulite">
+                <img src="./assets/bubu.webp" width="65" style="border-radius: 14px; box-shadow: 0 5px 20px rgba(0,0,0,0.5);" alt="Bubu Lite"/>
+                <br/><br/>
+                <b style="font-size: 14px; color: #ffffff;">Bubu Lite</b>
+                <br/>
+                <small style="color: #8b949e;">High Growth</small>
+            </a>
+        </td>
+    </tr>
 </table>
 
-<br />
+<br/><br/>
 
-<!-- Tech Stack (Icons instead of text list) -->
-
-<h3>🛠 Engineering Arsenal</h3>
-<p>
-<img src="https://img.shields.io/badge/Kotlin-0095D5%3Fstyle%3Dflat-square%26logo%3Dkotlin%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dflat-square%26logo%3Djava%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Android_Jetpack-3DDC84%3Fstyle%3Dflat-square%26logo%3Dandroid%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Compose-4285F4%3Fstyle%3Dflat-square%26logo%3Djetpackcompose%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dflat-square%26logo%3Dfirebase%26logoColor%3Dblack" />
-<img src="https://img.shields.io/badge/CI%252FCD-Jenkins-D24939%3Fstyle%3Dflat-square%26logo%3Djenkins%26logoColor%3Dwhite" />
-</p>
-
-<br />
-
-<!-- GitHub Analytics (Dark Theme to match Portfolio) -->
-
-<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dhikmat-gadirov%26show_icons%3Dtrue%26theme%3Dtransparent%26title_color%3D3DDC84%26text_color%3D9f9f9f%26icon_color%3D3DDC84%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Hikmat's Stats" />
-
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dhikmat-gadirov%26theme%3Dtransparent%26date_format%3DM%2520j%255B%252C%2520Y%255D%26ring%3D3DDC84%26fire%3D3DDC84%26currStreakLabel%3D3DDC84%26hide_border%3Dtrue" alt="GitHub Streak" />
-
-<br /><br />
-
-<!-- Final CTA -->
-
-<a href="https://hikmat-gadirov.github.io">
-<img src="https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D3DDC84%26height%3D50%26section%3Dfooter%26text%3DView%2520Full%2520Portfolio%26fontSize%3D20%26fontColor%3D0f172a%26animation%3DfadeIn" alt="Footer" width="100%" />
+<a href="https://linkedin.com/in/hikmat-gadirov">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:hikmet.kadirov.96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
